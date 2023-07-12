@@ -1,2 +1,2 @@
 # saterpose.github.io
-Try to work with github with my homepage!
+Try to work with github by my homepage!
